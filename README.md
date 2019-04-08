@@ -1,6 +1,8 @@
 # cegwas2-nf
 GWA mapping with C. elegans
 
+### This code is associated with the paper from Zdraljevic et al., "Natural variation in C. elegans arsenic toxicity is explained by differences in branched chain amino acid metabolism". eLife, 2019. http://dx.doi.org/10.7554/eLife.40260
+
 
 ## Overview of the workflow
 
